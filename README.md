@@ -104,7 +104,7 @@ Add your project screenshot inside an **assets** folder.
 ```markdown
 ## Dashboard Preview
 
-![Freight Cost Calculator](assets/dashboard-preview.png)
+![Freight Cost Calculator](Freight Cost Calculator Dashboard.png)
 ```
 
 ## 📊 Sample Calculation
