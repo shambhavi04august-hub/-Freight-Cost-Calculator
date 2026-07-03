@@ -99,7 +99,7 @@ freight-cost-calculator/
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard Preview](Freight Cost Calculator Dashboard.png)
+![Freight Cost Calculator Dashboard](assets/dashboard-preview.png)
 
 ## 📊 Sample Calculation
 
