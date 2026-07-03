@@ -155,32 +155,6 @@ Chargeable Weight = 50 kg
 * Supply Chain Professionals
 * Shipping Consultants
 
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/freight-cost-calculator.git
-```
-
-Navigate to the project:
-
-```bash
-cd freight-cost-calculator
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the application:
-
-```bash
-npm start
-```
-
 ## 🌟 Key Highlights
 
 * Real-time Freight Cost Calculation
