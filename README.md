@@ -99,13 +99,7 @@ freight-cost-calculator/
 
 ## 🖥️ Dashboard Preview
 
-Add your project screenshot inside an **assets** folder.
-
-```markdown
-## Dashboard Preview
-
-![Freight Cost Calculator](Freight Cost Calculator Dashboard.png)
-```
+Freight Cost Calculator Dashboard.png
 
 ## 📊 Sample Calculation
 
